@@ -13,7 +13,7 @@
 |    6    |13/2      | [CI - github actions](06._CI_github_actions/README.md)     |
 |    7    |17/2      | [Azure - Cloud](07._Azure_vm_portal_az/README.md)|
 |    8    |20/2      | [Azure - Cloud II](07._Azure_vm_portal_az/README.md)|
-|   9     |24/2      | [Continous delivery](08._Continous_delivery/README.md)|
+|   9     |24/2      | [Continous delivery](09._Continous_delivery/README.md)|
 |   10    |27/2      | [CI - code quality, linting, static code analysis]()          |
 |   11    |3/3       | [Groups - Getting ready for presentation]() - No Teachings in class |
 |   12    |6/3       | []()                 |
