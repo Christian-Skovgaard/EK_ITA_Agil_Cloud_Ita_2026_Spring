@@ -38,4 +38,4 @@ All groups show their work so far.
 ## After Class
 
 * [Investigate your favorite repo](exercises/favorite_repo.md)
-* [Create your workflow](create_your_workflow.md)
+* [Create your workflow](exercises/create_your_workflow.md)
