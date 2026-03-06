@@ -51,4 +51,14 @@ GROUP_REPOS = [
             "documentation": ["http://172.189.59.40/apidocs/"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgaard"],
         },
+{
+            "name": "Andreas INC.",
+            "gitLinks": ["https://github.com/AndreasRG/Awesome-Recipe-Book--2026-AndreasRG-Edition"],
+            "backend": "",
+            "frontend": "http://131.163.81.147:5000/",
+            "monitoring": "",
+            "stack": ["Python", "SQLAlchemy", "FastAPI"],
+            "documentation": ["https://github.com/AndreasRG/Awesome-Recipe-Book--2026-AndreasRG-Edition/blob/master/README.md"],
+            "members": ["Andreas Révész Gudmann"],
+        }
 ]
