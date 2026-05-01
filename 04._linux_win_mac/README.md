@@ -1,8 +1,11 @@
 # Linux, Windows, Mac
 
 ## Learning Goals
-* Have knowlege about package managers, and how to use them on linux and Mac or Windows
-* can 
+- Knows what a package manager is and can use one on their own OS (apt, brew, or Chocolatey).
+- Understands what environment variables are, how to set them, and why they matter for configuration.
+- Can navigate the shell using basic commands and understands file permissions.
+- Can use pipes and output redirection to chain shell commands together.
+- Can write and execute a basic bash script.
 
 ## Before Class
 No preperation for today

@@ -1,5 +1,11 @@
 # Git branching strategies
 
+## Learning Goals
+
+- Knows the most common git branching strategies (Git Flow, GitHub Flow, Trunk-Based Development) and can explain the differences between them.
+- Can argue for the choice of a branching strategy based on team size, release cadence, and CI/CD requirements.
+- Can create, merge, and resolve conflicts in branches using the git CLI.
+
 ## Before Class
 Be sure that you have a basic understanding of git commands (and be sure that you can use them through the CLI).
 

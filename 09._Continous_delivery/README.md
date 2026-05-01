@@ -10,9 +10,11 @@ The main thing we are missing in this context is to create instructions for GitH
 After today, when this setup is ready, we can start focusing on code quality, using tests and linting and code reviews. 
 
 ## Learning Goals
-* Explain what Continuous Delivery (CD) is.
-* 
-* Be able to write and understand a workflow file.
+
+- Can explain what Continuous Delivery and Continuous Deployment is, and the difference between them.
+- Can write and understand a GitHub Actions workflow file.
+- Knows how to run an application in production (e.g. PM2 for Node.js, Gunicorn for Python).
+- Can set up a CI/CD pipeline that builds and deploys a containerized application.
 
 ## Before Class
 Prepare for a short informal demo of your projects deployment setup.

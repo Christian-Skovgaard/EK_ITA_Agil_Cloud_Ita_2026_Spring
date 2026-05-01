@@ -6,8 +6,11 @@ This session also provides an overview of what we covered so far and where you c
 
 
 ## Learning Goals
-* Understand the concept of Git Hooks
-* Be able to work with GitHooks through a precommit tool
+
+- Understands what Git Hooks are, how they work, and can argue for their pros and cons.
+- Can set up a pre-commit hook that runs a linter before each commit.
+- Can use the `pre-commit` framework to manage and share hooks across a team.
+- Can configure pre-commit to run tests automatically before committing.
  
 ## Before Class
 Have a look at these files:

@@ -4,6 +4,11 @@ Today we you should focus on software quality, and on using tools both locally a
 
 ## Learning Goals
 
+- Understands what software quality is and can relate it to non-functional requirements.
+- Knows what technical debt is and can identify common causes and types of it.
+- Understands what linting is and can argue for why it is useful in a CI pipeline.
+- Can set up a linter for their project and run it as part of a GitHub Actions workflow.
+- Understands the value of code reviews and pull requests for maintaining software quality.
 
 ## Before Class
 

@@ -2,8 +2,10 @@
 
 ## Learning Goals
 
-* Have knowlage about different IaC tools.
-* Setup a version-controlled infrastructure, for faster path to recovery.
+- Can explain what Infrastructure as Code is and why it is preferred over manual cloud management.
+- Knows the different ways to work with cloud services (ClickOps, CLI, SDK, IaC) and can argue for the pros and cons of each.
+- Understands key IaC benefits such as reproducibility, recoverability, idempotency, and version control of infrastructure.
+- Can set up and tear down cloud infrastructure on Azure using bash scripts.
 
 ## Before Class
 
