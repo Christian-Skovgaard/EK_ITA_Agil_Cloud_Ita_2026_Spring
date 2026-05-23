@@ -2,10 +2,10 @@ GROUP_REPOS = [
         {
             "name": "DenDanskeMetode",
             "gitLinks": ["https://github.com/DenDanskeMetode/legacyProject"],
-            "backend": "http://131.163.89.207/api",
-            "frontend": "http://131.163.89.207/",
-            "monitoring": "",
-            "stack": ["Go", "SQLite", "GHCR"],
+            "backend": "http://http://20.100.169.50/swagger",
+            "frontend": "http://http://20.100.169.50",
+            "monitoring": "http://http://20.100.169.50/grafana",
+            "stack": ["Go", "Postgrsql", "GHCR", "Azure", "GH workflows"],
             "documentation": ["http://131.163.89.207/swagger"],
             "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
             "linux":True
