@@ -8,7 +8,6 @@ GROUP_REPOS = [
             "stack": ["Go", "Postgrsql", "GHCR", "Azure", "GH workflows"],
             "documentation": ["http://131.163.89.207/swagger"],
             "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
-            "linux":True
         },
                 {
             "name": "TheRizzlers",
