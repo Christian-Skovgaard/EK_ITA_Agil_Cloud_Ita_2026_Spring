@@ -2,14 +2,14 @@ GROUP_REPOS = [
         {
             "name": "DenDanskeMetode",
             "gitLinks": ["https://github.com/DenDanskeMetode/legacyProject"],
-            "backend": "http://http://20.100.169.50/swagger",
-            "frontend": "http://http://20.100.169.50",
-            "monitoring": "http://http://20.100.169.50/grafana",
-            "stack": ["Go", "Postgrsql", "GHCR", "Azure", "GH workflows"],
+            "backend": "http:20.100.169.50/api",
+            "frontend": "http://20.100.169.50",
+            "monitoring": "http://20.100.169.50/grafana",
+            "stack": ["Go", "PostgreSQL", "GHCR", "Azure", "GH workflows", "nginx", "Grafana", "Prometheus", "Docker"],
             "documentation": ["http://131.163.89.207/swagger"],
             "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
         },
-                {
+        {
             "name": "TheRizzlers",
             "gitLinks": ["https://github.com/TheRizzlersOrg4Semester/Rizzlerpies.git"],
             "backend": "http://20.251.202.47:4000/api/",
@@ -19,7 +19,7 @@ GROUP_REPOS = [
             "documentation": ["http://20.251.202.47:4000/apidocs/"],
             "members": ["Mike", "Johan", "Esben", "Mathias"],
         },
-                {
+        {
             "name": "LNS",
             "gitLinks": ["https://github.com/Linus-nisse-segmentering/Agile-Linus"],
             "backend": "",
@@ -29,8 +29,7 @@ GROUP_REPOS = [
             "documentation": [],
             "members": ["Lukas", "Nixhajete", "Sahra"],
         },
-        
-                {
+        {
             "name": "Ostemadprissse",
             "gitLinks": ["https://github.com/ostemadprinsesse/Dinner-served-and-ate"],
             "backend": "https://github.com/ostemadprinsesse/Dinner-served-and-ate/pkgs/container/dinner-served-backend",
@@ -50,7 +49,7 @@ GROUP_REPOS = [
             "documentation": ["http://172.189.59.40/apidocs/"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgaard"],
         },
-{
+        {
             "name": "Andreas INC.",
             "gitLinks": ["https://github.com/AndreasRG/Awesome-Recipe-Book--2026-AndreasRG-Edition"],
             "backend": "http://131.163.81.147:5000/api/",
